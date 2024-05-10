@@ -1,0 +1,45 @@
+
+.thumb{
+  width: 100%;
+  border-radius: 10px;
+
+}
+
+.titile{
+  margin-top: 0px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.name, .stat{
+  display: block;
+  font-size: 13px;
+  color:rgb(96, 96, 96) ;
+}
+
+.name{
+  margin-top: 10px;
+  margin-bottom: 3px;
+}
+
+.chapc{
+  width: 40px;
+  border-radius: 40px;
+}
+
+.video-titile{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 24px;
+  margin: 10px 10px 10px 10px;
+  
+}
+
+
+
